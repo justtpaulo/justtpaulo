@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Paulo José</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulojsv" alt="paulojsv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justtpaulo" alt="justtpaulo" /></a> </p>
 
 - 🌱 I’m currently learning **Java and MySQL.**
 
-- 👨‍💻 All of my projects are available at [paulojsv.tk](paulojsv.tk)
+- 👨‍💻 All of my projects are available at [justtpaulo.tk](justtpaulo.tk)
 
-- 💬 Ask me about **Java, JavaScript, Python.**
+- 💬 Ask me about **Java, JavaScript, Python and PHP.**
 
 - 📫 How to reach me **paulojs.d.s.f@gmail.com**
 
@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justtpaulo&show_icons=true&locale=en&layout=compact" alt="justtpaulo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justtpaulov&" alt="justtpaulo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justtpaulo&" alt="justtpaulo" /></p>
