@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo José</h1>
-<h3 align="center">A passionate back-end developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justtpaulo" alt="justtpaulo" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [justtpaulo.site](justtpaulo.site)
 
-- 💬 Ask me about **Java, JavaScript, Python and PHP.**
+- 💬 Ask me about **Java, JavaScript, Python, PHP and MYSQL.**
 
 - 📫 How to reach me **contato@justtpaulo.site**
 
