@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justtpaulo" alt="justtpaulo" /></a> </p>
 
-- 🌱 I’m currently learning **PHP.**
+- 🌱 I’m currently learning **Ruby.**
 
-- 👨‍💻 All of my projects are available at [justtpaulo.site](justtpaulo.site)
+- 👨‍💻 All of my projects are available at [justtpaulo.com](justtpaulo.com)
 
-- 💬 Ask me about **Java, JavaScript, Python, PHP and MYSQL.**
+- 💬 Ask me about **Java, JavaScript, Kotlin, Python, PHP and MYSQL.**
 
-- 📫 How to reach me **contato@justtpaulo.site**
+- 📫 How to reach me **contato@justtpaulo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
