@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Ruby.**
 
-- 👨‍💻 All of my projects are available at [justtpaulo.com](justtpaulo.com)
+- 👨‍💻 All of my projects are available at [www.justtpaulo.site](www.justtpaulo.site)
 
 - 💬 Ask me about **Java, JavaScript, Kotlin, Python, PHP and MYSQL.**
 
-- 📫 How to reach me **contato@justtpaulo.com**
+- 📫 How to reach me **contato@justtpaulo.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
