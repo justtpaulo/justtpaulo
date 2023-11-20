@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby.**
 
-- 👨‍💻 All of my projects are available at [www.justtpaulo.site](www.justtpaulo.site)
+- 👨‍💻 All of my projects are available at [www.justtpaulo.site](https://www.justtpaulo.site)
 
 - 💬 Ask me about **Java, JavaScript, Kotlin, Python, PHP and MYSQL.**
 
