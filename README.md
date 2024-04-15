@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/justtpaulo?tab=repositories)
 
-- 💬 Ask me about **Java Spring, React, Node.js, Vue, Nuxt, Kotlin, PHP and MYSQL.**
+- 💬 Ask me about **Java Spring, React, Node.js, Vue, Nuxt, Kotlin, Python, PHP and MYSQL.**
 
 - 📫 How to reach me **dev.pjose@gmail.com**
 
